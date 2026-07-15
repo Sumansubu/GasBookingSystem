@@ -1,0 +1,5 @@
+agency-dashboard.js:175 Error loading dashboard: TypeError: Cannot convert undefined or null to object
+    at Object.values (<anonymous>)
+    at updateDashboardStats (agency-dashboard.js:190:30)
+    at loadDashboardData (agency-dashboard.js:167:13)
+loadDashboardData @ agency-dashboard.js:175
